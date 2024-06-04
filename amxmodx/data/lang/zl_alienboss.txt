@@ -1,0 +1,31 @@
+[en]
+RED_YELLOW = [!gAlienBoss!y] Boss is mixing !gRED!y & !gYELLOW !ycolor
+RED_BLUE = [!gAlienBoss!y] Boss is mixing !gRED!y & !gBLUE !ycolor
+RED_GREEN = [!gAlienBoss!y] Boss is mixing !gRED!y & !gGREEN !ycolor
+YELLOW_BLUE = [!gAlienBoss!y] Boss is mixing !gYELLOW!y & !gBLUE !ycolor
+YELLOW_GREEN = [!gAlienBoss!y] Boss is mixing !gYELLOW!y & !gGREEN !ycolor
+BLUE_GREEN = [!gAlienBoss!y] Boss is mixing !gBLUE!y & !gGREEN !ycolor
+PURPLE = [!gAlienBoss!y] Boss is using !gPURPLE !ycolor
+MIX = [!gAlienBoss!y] Boss is using !gRED!y color !g(Resist)
+MIX2 = [!gAlienBoss!y] Boss receives a set of colors!
+MIX2_WHITE = [!gAlienBoss!y] Boss is using !gGREY !ycolor !g(Gravity)
+MIX2_BLUE = [!gAlienBoss!y] Boss is using !gBLUE !ycolor !g(Paralysis)
+MIX2_RED = [!gAlienBoss!y] Boss is using !gRED !ycolor !g(Destruction)
+WHITE = [!gAlienBoss!y] Boss is using !gWHITE !ycolor
+BOSS_STUN = [!gAlienBoss!y] Boss is stunned !g(Damage х2)
+
+[ru]
+RED_YELLOW = [!gAlienBoss!y] Босс смешал !gКрасный!y и !gЖелтый !yцвет
+RED_BLUE = [!gAlienBoss!y] Босс смешал !gКрасный!y и !gСиний !yцвет
+RED_GREEN = [!gAlienBoss!y] Босс смешал !gКрасный!y и !gЗеленый !yцвет
+YELLOW_BLUE = [!gAlienBoss!y] Босс смешал !gЖелтый!y и !gСиний !yцвет
+YELLOW_GREEN = [!gAlienBoss!y] Босс смешал !gЖелтый!y и !gЗеленый !yцвет
+BLUE_GREEN = [!gAlienBoss!y] Босс смешал !gСиний!y и !gЗеленый !yцвет
+PURPLE = [!gAlienBoss!y] Босс использует !gПурпурный !yцвет
+MIX = [!gAlienBoss!y] Босс использует !gКрасный!y цвет !g(резист)
+MIX2 = [!gAlienBoss!y] Босс получает комплект цветов!
+MIX2_WHITE = [!gAlienBoss!y] Босс использует !gСерый !yцвет !g(Гравитационный)
+MIX2_BLUE = [!gAlienBoss!y] Босс использует !gСиний !yцвет !g(Паралич)
+MIX2_RED = [!gAlienBoss!y] Босс использует !gКрасный !yцвет !g(Уничтожение)
+WHITE = [!gAlienBoss!y] Босс использует !gБелый !yцвет
+BOSS_STUN = [!gAlienBoss!y] Босс оглушен !g(Урон х2)
